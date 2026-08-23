@@ -1,0 +1,14 @@
+extends: substitution
+message: "Use British spelling: '%s' should be '%s'."
+level: warning
+ignorecase: true
+swap:
+   behavior: behaviour
+   color: colour
+   organize: organise
+   organization: organisation
+   analyze: analyse
+   optimize: optimise
+   center: centre
+   modeling: modelling
+   labeled: labelled
