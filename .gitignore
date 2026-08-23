@@ -72,3 +72,6 @@ target/
 
 matplotrecorder/*
 .vscode/settings.json
+
+# Vale synced packages (re-fetched by CI)
+.github/styles/write-good/
